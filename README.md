@@ -2,31 +2,19 @@
 <h1 align="center"> JS - Drum for web </h1>
 
 #Índice
-- [Demo](#demo)
 - [➡️ About](#️-about)
 - [🚀 Technologies used](#-technologies-used)
 - [📥 How to use](#-how-to-use)
 
 ---
 
-## Demo
-<script async src="//jsfiddle.net/tayse_rosa/e1s6huj7/1/embed/result/dark/"></script>
-
-<div data-snack-id="@tayse_rosa/switch---react-native" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%">
-
-[![switch.png](https://i.postimg.cc/2jqspL07/switch.png)](https://snack.expo.io/@tayse_rosa/switch---react-native)
-
-</div>
-<script async src="https://snack.expo.io/embed.js"> </script>
-
----
 
 ## ➡️ About
 <b>Portugues:</b>
-O projeto foi desenvolvido com a intenção de ser uma **base de conhecimento** para consultas de iniciantes na área de **React Native**, tanto para minhas futuras consultas rápidas, como para outros desenvolvedores React Native que por ventura esqueceram como se faz alguma funcionalidade.
+O projeto foi desenvolvido para estudar e aprofundar os conhecimentos em Javascript e com a intenção de ser uma **base de conhecimento** para consultas de iniciantes na área de **Javascript**, tanto para minhas futuras consultas rápidas, como para outros desenvolvedores JS que por ventura esqueceram como se faz alguma funcionalidade.
 
 <b>English:</b>
-The project was developed with the intention of being a ** knowledge base ** for queries from beginners in the ** React Native ** area, both for my future quick queries, and for other React Native developers who perhaps forgot how to does some functionality.
+The project was developed to study and deepen my knowledge of Javascript and with the intention of being a **knowledge base** for beginners' queries in the **Javascript** area, both for my future quick queries and for other developers JS that by chance forgot how to do some functionality.
 
 ---
 
@@ -37,9 +25,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <b>English:</b>
 The project was developed using the following technologies.
 
-- Expo
-- React Native
-- Switch
+- HTML5
+- CSS3
+- Javascript
 
 ---
 
@@ -47,16 +35,13 @@ The project was developed using the following technologies.
 ```js
 
     //Clone the repository
-    $ git clone https://github.com/TayseRosa/react-native-switch.git
+    $ git clone https://github.com/TayseRosa/js-web-drum.git
 
     //Enter the directory 
-    $ cd react-native-switch
-
-    //Install the dependencies the project
-    $ yarn install
+    $ cd js-web-drum
 
     //Start the project
-    $ yarn start
+    Double click on index.html and it will open in browser
 
 ``` 
 
