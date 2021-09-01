@@ -12,6 +12,8 @@
 ## Demo
 <script async src="//jsfiddle.net/tayse_rosa/e1s6huj7/1/embed/"></script>
 
+<iframe width="100%" height="300" src="//jsfiddle.net/tayse_rosa/e1s6huj7/1/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
 <div data-snack-id="@tayse_rosa/switch---react-native" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%">
 
 [![switch.png](https://i.postimg.cc/2jqspL07/switch.png)](https://snack.expo.io/@tayse_rosa/switch---react-native)
