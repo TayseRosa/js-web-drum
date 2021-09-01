@@ -12,9 +12,11 @@
 ## ➡️ About
 <b>Portugues:</b>
 O projeto foi desenvolvido para estudar e aprofundar os conhecimentos em Javascript e com a intenção de ser uma **base de conhecimento** para consultas de iniciantes na área de **Javascript**, tanto para minhas futuras consultas rápidas, como para outros desenvolvedores JS que por ventura esqueceram como se faz alguma funcionalidade.
+Este projeto se trata de um simulador de bateria que emite sons conforme digita as letras programadas na tela, e também é possível fazer uma composição, digitando no input abaixo as letras que deseja e clicando em "Tocar".
 
 <b>English:</b>
 The project was developed to study and deepen my knowledge of Javascript and with the intention of being a **knowledge base** for beginners' queries in the **Javascript** area, both for my future quick queries and for other developers JS that by chance forgot how to do some functionality.
+This project is a drum simulator that emits sounds as you type the programmed letters on the screen, and it is also possible to make a composition, typing in the input below the letters you want and clicking on "Play".
 
 ---
 
